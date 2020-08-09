@@ -2,9 +2,9 @@
 /*-----------------------------------------------------------------
 [Main Stylesheet]
 
-Project:    Nile Logistics
+Project:    DRACO Logistics
 Version:    1.0
-Last change:    20 August 18
+Last change:    10 August 20
 Primary use:    Transportation and Logistics 
 
 
@@ -38065,7 +38065,7 @@ form.dark-form ::-ms-input-placeholder {
   }
 
   .service.layout-1 {
-    background-color: #e53935;
+    background-color: #F6B93B;
     margin-bottom: 30px;
   }
 }
